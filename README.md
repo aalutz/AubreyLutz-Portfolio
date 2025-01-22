@@ -2,7 +2,7 @@
 
 
 - Web page URL: https://aalutz.github.io/AubreyLutz-Portfolio/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- This repository: https://github.com/aalutz/AubreyLutz-Portfolio/tree/main
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU. Feel free to check out my work below!
