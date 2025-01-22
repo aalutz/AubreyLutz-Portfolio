@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: https://aalutz.github.io/AubreyLutz-Portfolio/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
