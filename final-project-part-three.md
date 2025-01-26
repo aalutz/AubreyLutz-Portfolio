@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Visualizations](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://aalutz.github.io/AubreyLutz-Portfolio/) | [Data Visualizations](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
