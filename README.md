@@ -19,7 +19,7 @@ By taking this Data Visualizations course, I hope to learn how to make complex d
 
 # Portfolio
 
-## Assignment 2: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment 2: [Visualizing Government Debt](Visualizing Government Debt)
  
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
