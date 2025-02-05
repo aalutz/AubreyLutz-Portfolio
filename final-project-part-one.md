@@ -21,9 +21,10 @@ The Educational Opportunity Project at Stanford University has a fantastic site 
 
 The Century Foundation also has data available on this topic that will be useful for my storytelling. Halley Porter wrote an article focusing on the key takeaways and it will be helpful in identifying some of the main statistics to incorporate into my own story. 
 
-| Name | URL | Description |
 |The Educational Opportunity Project at Stanford University |[https://edopportunity.org/segregation/explorer/]|Interactive map showing the White – Black segregation between schools for states and percent White for schools in 2020|
+
 |The Educational Opportunity Project at Stanford University| https://edopportunity.org/segregation/data/downloads/ | Data available on U.S. schools and U.S. segregation |
+
 |  School Segregation in U.S. Metro Areas (The Century Foundation) |  https://tcf.org/content/report/school-segregation-in-u-s-metro-areas/  |  Highlights key statistics and incorporates data visualizations for storytelling  |
 
 # Method and medium
@@ -31,4 +32,5 @@ I intend on using ArcGIS Story Maps to create my final deliverable for this proj
 
 ## References
 https://tcf.org/content/report/school-segregation-in-u-s-metro-areas/
+
 https://edopportunity.org/segregation/
