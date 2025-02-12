@@ -5,6 +5,7 @@ Text here...
 
 ## Step One: The Visualization
 <img width="604" alt="image" src="https://github.com/user-attachments/assets/2b99aa42-9592-4a8f-a8c6-272a72fe3905" />
+
 Data source: World Bank (2024); van Zanden, J. et al. (2014) 
 
 I selected this data visualization because it was the first one in the article that I was unable to clearly understand just by looking at it. After reading about what the visualization was trying to represent, I was interested in the data and the story they were trying to convey. My initial response to this visualization was a sense of overwhelm from the graph portion itself being completely full from 0-100%. I also did not realize right away that it was an interactive timeline with a scrolling x-axis. I knew I wanted to redesign this visualization because the information and story is important for readers to understand.
