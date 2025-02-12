@@ -1,7 +1,7 @@
 | [Home Page](https://aalutz.github.io/AubreyLutz-Portfolio/) | [Data Visualizations](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Literacy of People Aged 15+ by Country Income Level
-Text here...
+This information presented below is representative of the percentage share of people aged 15+ that are deeemed "literate" based on their country's income level from 2006-2023. The data used was from the World Bank (2024). 
 
 ## Step One: The Visualization
 <img width="604" alt="image" src="https://github.com/user-attachments/assets/2b99aa42-9592-4a8f-a8c6-272a72fe3905" />
