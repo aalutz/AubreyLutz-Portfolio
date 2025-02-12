@@ -29,8 +29,11 @@ I learned that my visualization conveyed the story I wanted to tell, but there w
 
 
 ## Step Five: Build the Solution
+<img width="687" alt="image" src="https://github.com/user-attachments/assets/0df1bba9-63df-4f3b-bbd4-8c4ebbb640b3" />
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Data source: World Bank (2024); van Zanden, J. et al. (2014) 
+
+
 
 ## References
 _List any references you used here._
