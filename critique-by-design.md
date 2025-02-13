@@ -19,7 +19,7 @@ Overall, I wanted to simplify the level of infomation visualized to make it easi
 
 ## Step Four: Test the Solution
 
-| Question | Interview 1 |
+| Question | Interview 1 - Student, mid 20s (MSPPM 2nd Year) |
 |Can you describe to me what this is telling you?|It's showing the literacy of people ages 15+ based on the income level of their country.|
 |Is there anything you find confusing?|I'm not sure what the y-axis is representing in terms of units. Is it percentages or rates?|
 |Is there anything you would change or do differently?|I noticed that the rates of growth are different for each income level, so it would be interesting if you could represent that in some way.|
@@ -33,7 +33,8 @@ I learned that my visualization conveyed the story I wanted to tell, but there w
 
 Data source: World Bank (2024); van Zanden, J. et al. (2014) 
 
+The visualization presented above follows a critique of the original visualization, a sketch, student critique, and redesign. For my final redesign, I have changed the y-axis label to indicate that the units are a percentage share of the population. I have also incorporated a brief description below the title stating the main takeaways and rates of change, as well as how the data source defined "literate". I selected the original version of this data visualization because the story they were trying to convey is important for readers to understand, however, the story was not easy to decipher upon first glance. By redesigning the visualization to a line graph highlighting the differences in literacy based on country income levels, the audience is still able to receive the same level of information in a more simplistic format. 
 
 
 ## References
-_List any references you used here._
+https://ourworldindata.org/literacy
