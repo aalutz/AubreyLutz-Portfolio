@@ -5,6 +5,7 @@
 Shorthand Link - [https://preview.shorthand.com/lykm3qt9KrRuIt0W/responsive/desktop] 
 
 Data Visualization Drafts:
+
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/ae829a67-72b3-402e-8159-cc65a6b97f2e" />
 <img width="818" alt="image" src="https://github.com/user-attachments/assets/f88325c9-e065-4fee-ba16-1be9ac7909b8" />
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/2af85ed3-8553-4caf-8980-edd937140cee" />
