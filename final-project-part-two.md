@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-Shorthand Link - [https://preview.shorthand.com/lykm3qt9KrRuIt0W/responsive/desktop] (https://preview.shorthand.com/lykm3qt9KrRuIt0W/responsive/desktop)
+Shorthand Link - [https://preview.shorthand.com/lykm3qt9KrRuIt0W/responsive/desktop] 
 
 Data Visualization Drafts:
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/ae829a67-72b3-402e-8159-cc65a6b97f2e" />
@@ -43,5 +43,5 @@ I am going to add a section discussing the benefits of school diversity, clearly
 
 
 ## References
-[https://edopportunity.org/segregation/data/downloads/] (https://edopportunity.org/segregation/data/downloads/)
-[https://tcf.org/content/report/school-segregation-in-u-s-metro-areas/] (https://tcf.org/content/report/school-segregation-in-u-s-metro-areas/) 
+[https://edopportunity.org/segregation/data/downloads/]
+[https://tcf.org/content/report/school-segregation-in-u-s-metro-areas/]
