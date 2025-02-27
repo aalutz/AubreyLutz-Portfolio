@@ -19,14 +19,14 @@ By taking this Data Visualizations course, I hope to learn how to make complex d
 
 # Portfolio
 
-## Assignment 2: [Visualizing Government Debt]
+## Assignment 2: [Data Visualizations](dataviz-examples)
  
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 
 ## Final Project
-Here it might be helpful to include a high-level description of your final project. 
+Analyzing and visualizing the discrimination of the U.S. early child care systems. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
